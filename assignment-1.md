@@ -1,5 +1,5 @@
-##Assignment 1: Array Operations
-###Objective: Practice adding, removing, and updating values in arrays.
+## Assignment 1: Array Operations
+### Objective: Practice adding, removing, and updating values in arrays.
 
 1. Create an empty array called "fruits".
 ```
@@ -68,8 +68,8 @@ Output:
 [ 'banana', 'pear', 'grape' ] Fruits
 ```
 
-##Assignment 2: Object Operations
-###Objective: Practice adding, removing, and updating values in objects.
+## Assignment 2: Object Operations
+### Objective: Practice adding, removing, and updating values in objects.
 
 1. Create an empty object called "person".
 ```
@@ -126,9 +126,9 @@ console.log(person)
 
 ```
 
-##Assignment 3: Array of Objects Operations
+## Assignment 3: Array of Objects Operations
 
-###Objective: Practice adding, removing, and updating values in an array of objects.
+### Objective: Practice adding, removing, and updating values in an array of objects.
 
 
 1. Create an empty array called "cars".
@@ -214,5 +214,5 @@ cars [
 ]
 ```
 
-####Remember to use console.log() to print the arrays and objects in the console to see the results of each operation.
+#### Remember to use console.log() to print the arrays and objects in the console to see the results of each operation.
 
